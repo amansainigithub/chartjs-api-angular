@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "year": "january",
+      "amount": "15000",
+      "colourcode": "red"
+    },
+    {
+      "year": "february",
+      "amount": "25000",
+      "colourcode": "blue"
+    },
+    {
+      "year": "march",
+      "amount": "140000",
+      "colourcode": "green"
+    },
+    {
+      "year": "april",
+      "amount": "145000",
+      "colourcode": "blue"
+    },
+    {
+      "year": "may",
+      "amount": "99000",
+      "colourcode": "red"
+    },
+    {
+      "year": "june",
+      "amount": "66000",
+      "colourcode": "green"
+    },
+    {
+      "year": "july",
+      "amount": "165400",
+      "colourcode": "red"
+    }
+  ],
+  "comments": [
+    {
+      "year": 2015,
+      "amount": "154440",
+      "colourcode": "red"
+    },
+    {
+      "year": 2016,
+      "amount": "457800",
+      "colourcode": "blue"
+    }
+    ,
+    {
+      "year": 2017,
+      "amount": "4561112",
+      "colourcode": "yellow"
+    },
+    {
+      "year": 2018,
+      "amount": "4578410",
+      "colourcode": "orange"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
